@@ -1,0 +1,51 @@
+11:02:06.984 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\Selenium\opencartApp\groupTest.xml
+
+11:02:09.156 [main] INFO  testcases.Tc001_verify_Account_Registration - *** Start Test :  verify_Account_Registration ***
+11:02:09.782 [main] INFO  testcases.Tc001_verify_Account_Registration - * Clicked On MyAccount Link..*
+11:02:10.673 [main] INFO  testcases.Tc001_verify_Account_Registration - * Clicked On Register Link..*
+11:02:11.183 [main] INFO  testcases.Tc001_verify_Account_Registration - Providing Customer Info..
+11:02:17.383 [main] INFO  testcases.Tc001_verify_Account_Registration - Validation Expected Massage..
+11:02:17.468 [main] INFO  testcases.Tc001_verify_Account_Registration - *** End Of Test : verify_Account_Registration ***
+11:02:19.245 [main] INFO  testcases.Tc002_Verify_Account_Login - ** Test Start **
+11:02:19.927 [main] INFO  testcases.Tc002_Verify_Account_Login - clicked On Login
+11:02:20.073 [main] INFO  testcases.Tc002_Verify_Account_Login - Passed Login Detailes ..!
+11:02:20.417 [main] INFO  testcases.Tc002_Verify_Account_Login - Validation Using MyAccount..
+11:02:20.419 [main] DEBUG testcases.Tc002_Verify_Account_Login - Debug Info..
+11:02:20.419 [main] INFO  testcases.Tc002_Verify_Account_Login - ** Test Complete **
+15:00:40.655 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\Selenium\opencartApp\master.xml"
+15:00:41.260 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\Selenium\opencartApp\master.xml
+
+15:00:49.398 [main] INFO  testcases.Tc001_verify_Account_Registration - *** Start Test :  verify_Account_Registration ***
+15:00:50.228 [main] INFO  testcases.Tc001_verify_Account_Registration - * Clicked On MyAccount Link..*
+15:00:53.078 [main] INFO  testcases.Tc001_verify_Account_Registration - * Clicked On Register Link..*
+15:00:53.591 [main] INFO  testcases.Tc001_verify_Account_Registration - Providing Customer Info..
+15:01:02.784 [main] INFO  testcases.Tc001_verify_Account_Registration - Validation Expected Massage..
+15:01:02.883 [main] INFO  testcases.Tc001_verify_Account_Registration - *** End Of Test : verify_Account_Registration ***
+15:01:08.909 [main] INFO  testcases.Tc002_Verify_Account_Login - ** Test Start **
+15:01:10.181 [main] INFO  testcases.Tc002_Verify_Account_Login - clicked On Login
+15:01:10.736 [main] INFO  testcases.Tc002_Verify_Account_Login - Passed Login Detailes ..!
+15:01:12.545 [main] INFO  testcases.Tc002_Verify_Account_Login - Validation Using MyAccount..
+15:01:12.549 [main] DEBUG testcases.Tc002_Verify_Account_Login - Debug Info..
+15:01:12.549 [main] INFO  testcases.Tc002_Verify_Account_Login - ** Test Complete **
+15:14:16.251 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\AppData\Local\Temp\testng-eclipse-1690002351\testng-customsuite.xml"
+15:14:16.782 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:14:16.791 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+15:14:16.798 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:14:16.799 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:14:16.801 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:14:16.801 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:14:16.804 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:14:16.804 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:14:16.830 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 18 ms.
+15:14:16.862 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 31 ms.
+15:14:16.870 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:14:16.872 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:14:16.876 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:14:16.877 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:14:16.878 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:14:16.879 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:14:16.884 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:14:16.885 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:14:16.886 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.

@@ -1,0 +1,33 @@
+17:24:33.714 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1a28aef1: 10 ms
+17:24:33.719 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@203c20cf: 0 ms
+17:26:17.508 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\Selenium\opencartApp\master.xml"
+17:26:17.872 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\Selenium\opencartApp\master.xml
+
+17:26:18.181 [main] INFO  testcases.Tc001_verify_Account_Registration - *** Start Test :  verify_Account_Registration ***
+17:28:07.784 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\Selenium\opencartApp\master.xml"
+17:28:08.052 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\Selenium\opencartApp\master.xml
+
+17:28:11.086 [main] INFO  testcases.Tc001_verify_Account_Registration - *** Start Test :  verify_Account_Registration ***
+17:28:11.682 [main] INFO  testcases.Tc001_verify_Account_Registration - * Clicked On MyAccount Link..*
+17:28:13.541 [main] INFO  testcases.Tc001_verify_Account_Registration - * Clicked On Register Link..*
+17:28:14.059 [main] INFO  testcases.Tc001_verify_Account_Registration - Providing Customer Info..
+17:28:21.025 [main] INFO  testcases.Tc001_verify_Account_Registration - Validation Expected Massage..
+17:28:21.108 [main] ERROR testcases.Tc001_verify_Account_Registration - Test Fail..
+17:28:21.108 [main] DEBUG testcases.Tc001_verify_Account_Registration - Debug logs..
+17:28:23.522 [main] INFO  testcases.Tc002_Verify_Account_Login - ** Test Start **
+17:28:24.346 [main] INFO  testcases.Tc002_Verify_Account_Login - clicked On Login
+17:28:24.491 [main] INFO  testcases.Tc002_Verify_Account_Login - Passed Login Detailes ..!
+17:28:24.916 [main] INFO  testcases.Tc002_Verify_Account_Login - Validation Using MyAccount..
+17:28:24.919 [main] DEBUG testcases.Tc002_Verify_Account_Login - Debug Info..
+17:28:24.919 [main] INFO  testcases.Tc002_Verify_Account_Login - ** Test Complete **
+17:39:12.937 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\Selenium\opencartApp\master.xml"
+17:39:13.547 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\Selenium\opencartApp\master.xml
+
+17:39:16.404 [main] INFO  testcases.Tc001_verify_Account_Registration - *** Start Test :  verify_Account_Registration ***
+17:39:17.012 [main] INFO  testcases.Tc001_verify_Account_Registration - * Clicked On MyAccount Link..*
+17:39:18.456 [main] INFO  testcases.Tc001_verify_Account_Registration - * Clicked On Register Link..*
+17:39:18.965 [main] INFO  testcases.Tc001_verify_Account_Registration - Providing Customer Info..
+17:39:25.542 [main] INFO  testcases.Tc001_verify_Account_Registration - Validation Expected Massage..

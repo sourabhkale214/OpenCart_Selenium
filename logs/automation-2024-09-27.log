@@ -1,0 +1,52 @@
+15:14:16.887 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:14:16.914 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:14:16.914 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:14:16.915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:14:16.915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:14:16.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:14:16.921 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:14:16.926 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:14:16.926 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:14:16.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:14:16.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:14:16.953 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-1690002351\testng-customsuite.xml
+
+15:14:17.013 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+15:14:28.596 [main] INFO  testcases.Tc001_verify_Account_Registration - *** Start Test :  verify_Account_Registration ***
+15:14:40.128 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@204e90f7: 90 ms
+15:14:40.147 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3db663d0: 18 ms
+15:14:40.162 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@26d96e5: 14 ms
+15:14:40.172 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@72725ee1: 10 ms
+15:14:40.183 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4893b344: 11 ms
+15:14:40.183 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@53a665ad: 0 ms
+19:44:47.233 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\Selenium\opencartApp\master.xml"
+19:44:47.912 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\Selenium\opencartApp\master.xml
+
+19:45:02.197 [main] INFO  testcases.Tc001_verify_Account_Registration - *** Start Test :  verify_Account_Registration ***
+19:45:03.007 [main] INFO  testcases.Tc001_verify_Account_Registration - * Clicked On MyAccount Link..*
+19:45:05.325 [main] INFO  testcases.Tc001_verify_Account_Registration - * Clicked On Register Link..*
+19:45:05.853 [main] INFO  testcases.Tc001_verify_Account_Registration - Providing Customer Info..
+19:45:14.345 [main] INFO  testcases.Tc001_verify_Account_Registration - Validation Expected Massage..
+19:45:15.352 [main] INFO  testcases.Tc001_verify_Account_Registration - *** End Of Test : verify_Account_Registration ***
+19:45:23.147 [main] INFO  testcases.Tc002_Verify_Account_Login - ** Test Start **
+19:45:24.736 [main] INFO  testcases.Tc002_Verify_Account_Login - clicked On Login
+19:45:25.285 [main] INFO  testcases.Tc002_Verify_Account_Login - Passed Login Detailes ..!
+19:45:26.963 [main] INFO  testcases.Tc002_Verify_Account_Login - Validation Using MyAccount..
+19:45:26.968 [main] DEBUG testcases.Tc002_Verify_Account_Login - Debug Info..
+19:45:26.969 [main] INFO  testcases.Tc002_Verify_Account_Login - ** Test Complete **
+13:15:06.178 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\Selenium\opencartApp\master.xml"
+13:15:06.976 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\Selenium\opencartApp\master.xml
+
+13:15:27.150 [main] INFO  testcases.Tc001_verify_Account_Registration - *** Start Test :  verify_Account_Registration ***
+13:15:27.934 [main] INFO  testcases.Tc001_verify_Account_Registration - * Clicked On MyAccount Link..*
+13:15:30.470 [main] INFO  testcases.Tc001_verify_Account_Registration - * Clicked On Register Link..*
+13:15:30.993 [main] INFO  testcases.Tc001_verify_Account_Registration - Providing Customer Info..
+13:15:40.630 [main] INFO  testcases.Tc001_verify_Account_Registration - Validation Expected Massage..
+13:15:40.752 [main] ERROR testcases.Tc001_verify_Account_Registration - Test Fail..
+13:15:40.752 [main] DEBUG testcases.Tc001_verify_Account_Registration - Debug logs..
+13:15:46.296 [main] INFO  testcases.Tc002_Verify_Account_Login - ** Test Start **
+13:15:47.926 [main] INFO  testcases.Tc002_Verify_Account_Login - clicked On Login
+13:15:48.551 [main] INFO  testcases.Tc002_Verify_Account_Login - Passed Login Detailes ..!
